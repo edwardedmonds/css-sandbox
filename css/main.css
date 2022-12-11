@@ -110,3 +110,8 @@ section h2 {
 section p {
   font-size: .75rem;
 }
+
+.clock {
+  font-size: .75rem;
+  text-decoration: underline;
+}
